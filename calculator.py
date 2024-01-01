@@ -20,4 +20,4 @@ elif choixCalcul == "D":
     resultatDivision = nombreCalcul1 / nombreCalcul2
     print("Le résultat de ta division est",resultatDivision)
 else:
-    print("YA HMAL, J'TAI DEMANDER D'ENTRER DES NOMBRES PAS AUTRE CHOSE !!!! NAN NAN NAN N'ESSAIE PAS DE TE JUSTIFIER J'CONNAIS BIEN LES PETITS MOTS << OH NON ! JE SUIS DESOLEE J'LAI PAS FAIT EXPRES TU SAIS...>> EH BAH NON ! AVEC MOI CA NE MARCHE PAS !!!!!!")
+    print("Erreur de saisis, il faut choisir soit la lettre A,S,M ou D.")
