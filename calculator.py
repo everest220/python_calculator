@@ -1,6 +1,6 @@
+#A little parenthesis
 # THIS PROGRAM IS A MINI CALCULATOR
-# IF YOU HAVE ANY QUESTION, YOU CAN CONTACT LEYNA BY MAIL : tarek.sassi@gmail.com
-#
+# IF YOU HAVE ANY QUESTION, FEEL FREE TO CONTACT ME ON GITHUB.
 
 print("Salut !!!!! Bienvenue dans le programme de calcul de Leyna ;-)")
 choixCalcul = input("Choisis ton calcul : Addition (A), Soustraction (S), Multiplication (M) ou Divison (D) : ")
