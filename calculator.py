@@ -1,4 +1,4 @@
-#A little parenthesis
+# A little parenthesis
 # THIS PROGRAM IS A MINI CALCULATOR
 # IF YOU HAVE ANY QUESTION, FEEL FREE TO CONTACT ME ON GITHUB.
 
