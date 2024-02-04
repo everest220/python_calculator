@@ -5,9 +5,8 @@ def remainder_integer_division(dividend: int, divider: int):
     return remainder
 
 
-# Another Function checking that a number is even
-def even_number(number_to_test: int):
-    if remainder_integer_division(number_to_test, 2) == 0:
+def multiple_number(number_to_test: int, multiple_to_use: int):
+    if remainder_integer_division(number_to_test, multiple_to_use) == 0:
         return True
     else:
         return False
